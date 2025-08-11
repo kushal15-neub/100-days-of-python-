@@ -7,3 +7,8 @@ if a == b:
 else:   
     print("not palindrome")
     
+import pyttsx3
+
+engine = pyttsx3.init()
+engine.say("Ebla ,Kely")
+engine.runAndWait()
