@@ -23,4 +23,3 @@ print(arr1.reshape(2,1,4))
 print(arr1.reshape(1,1,8))
 # make three dimensional array
 print(arr1.reshape(2,2,2))
-print(arr1.reshape(2,3,1))
